@@ -1,4 +1,4 @@
-package org.soraworld.sniffer;
+package org.soraworld.autofish;
 
 import cpw.mods.fml.client.registry.ClientRegistry;
 import cpw.mods.fml.common.FMLCommonHandler;
@@ -10,10 +10,10 @@ import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
 import net.minecraftforge.client.ClientCommandHandler;
 import net.minecraftforge.common.MinecraftForge;
-import org.soraworld.sniffer.command.CommandFish;
-import org.soraworld.sniffer.constant.Constants;
-import org.soraworld.sniffer.handler.EventBusHandler;
-import org.soraworld.sniffer.handler.FMLEventHandler;
+import org.soraworld.autofish.command.CommandFish;
+import org.soraworld.autofish.constant.Constants;
+import org.soraworld.autofish.handler.EventBusHandler;
+import org.soraworld.autofish.handler.FMLEventHandler;
 
 @Mod(
         modid = Constants.MODID,

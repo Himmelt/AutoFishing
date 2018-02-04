@@ -1,4 +1,4 @@
-package org.soraworld.sniffer.constant;
+package org.soraworld.autofish.constant;
 
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;

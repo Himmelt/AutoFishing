@@ -1,12 +1,12 @@
-package org.soraworld.sniffer.command;
+package org.soraworld.autofish.command;
 
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
 import net.minecraft.command.CommandException;
 import net.minecraft.command.ICommand;
 import net.minecraft.command.ICommandSender;
-import org.soraworld.sniffer.util.I19n;
-import org.soraworld.sniffer.util.Lists;
+import org.soraworld.autofish.util.I19n;
+import org.soraworld.autofish.util.Lists;
 
 import java.util.*;
 import java.util.stream.Collectors;

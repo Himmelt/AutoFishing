@@ -1,11 +1,11 @@
-package org.soraworld.sniffer.command;
+package org.soraworld.autofish.command;
 
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
 import net.minecraft.command.ICommandSender;
 import net.minecraft.util.ChatComponentText;
-import org.soraworld.sniffer.constant.Constants;
-import org.soraworld.sniffer.util.FishUtils;
+import org.soraworld.autofish.constant.Constants;
+import org.soraworld.autofish.util.FishUtils;
 
 import java.util.ArrayList;
 

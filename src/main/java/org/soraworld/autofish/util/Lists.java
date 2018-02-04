@@ -1,4 +1,4 @@
-package org.soraworld.sniffer.util;
+package org.soraworld.autofish.util;
 
 import java.util.ArrayList;
 import java.util.Collections;
